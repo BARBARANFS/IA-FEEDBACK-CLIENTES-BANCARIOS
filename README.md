@@ -212,7 +212,7 @@ O resultado produzido pela IA não deve ser utilizado como decisão operacional 
 
 ## 👩‍💻 Autora
 
-**Barbara Nascimento de Freitas**
+**Barbara Freitas**
 
 
 
