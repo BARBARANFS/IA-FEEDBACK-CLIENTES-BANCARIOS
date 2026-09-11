@@ -128,7 +128,6 @@ Quando disponíveis, são considerados:
 - possível impacto operacional observável;
 - necessidade aparente de atenção.
 
-
 As categorias de prioridade utilizadas são:
 
 - **Alta**
@@ -137,6 +136,8 @@ As categorias de prioridade utilizadas são:
 - **Não determinada**
 
 Quando houver um sinal que exija investigação, mas os dados não forem suficientes para estabelecer uma prioridade confiável, a análise poderá indicar **"Necessita investigação"**, acompanhada da justificativa correspondente.
+
+A prioridade atribuída representa uma avaliação baseada na amostra fornecida e não deve ser interpretada como prioridade operacional definitiva do banco.
 
 ---
 
@@ -213,8 +214,6 @@ O resultado produzido pela IA não deve ser utilizado como decisão operacional 
 
 **Barbara Nascimento de Freitas**
 
-Projeto desenvolvido no **Bootcamp Banco Bradesco — GenAI, Dados & Cyber | DIO**.
 
----
 
 
