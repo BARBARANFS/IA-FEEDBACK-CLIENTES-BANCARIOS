@@ -4,6 +4,10 @@
 
 Projeto desenvolvido como parte do **Bootcamp Banco Bradesco — GenAI, Dados & Cyber**, da **Digital Innovation One (DIO) em parceria com o Banco Bradesco**.
 
+<p align="center">
+  <img src="capa-ia-feedback-clientes-bancarios.png" alt="Capa do projeto IA-Feedback-Clientes-Bancarios" width="80%">
+</p>
+
 O desafio propõe o desenvolvimento de um prompt estruturado para utilizar Inteligência Artificial na análise de feedbacks de clientes bancários, transformando manifestações dos clientes em informações que possam apoiar a identificação de padrões, problemas, riscos e oportunidades de melhoria.
 
 ---
